@@ -9,4 +9,5 @@
   * HTML
   * CSS(SASS)
   * JavaScript
+  * [Font Awesome library](https://fontawesome.com/)
 
